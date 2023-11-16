@@ -1,0 +1,17 @@
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\bin\Debug\net7.0-windows\Achados_e_Perdidos.exe
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\bin\Debug\net7.0-windows\Achados_e_Perdidos.deps.json
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\bin\Debug\net7.0-windows\Achados_e_Perdidos.runtimeconfig.json
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\bin\Debug\net7.0-windows\Achados_e_Perdidos.dll
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\bin\Debug\net7.0-windows\Achados_e_Perdidos.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.Form1.resources
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.UserControl1.resources
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.csproj.GenerateResource.cache
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.AssemblyInfoInputs.cache
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.AssemblyInfo.cs
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.csproj.CoreCompileInputs.cache
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.dll
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\refint\Achados_e_Perdidos.dll
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.pdb
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\Achados_e_Perdidos.genruntimeconfig.cache
+C:\Users\WDAGUtilityAccount\Desktop\Achados e perdidos\Achados_e_Perdidos\Achados_e_Perdidos\obj\Debug\net7.0-windows\ref\Achados_e_Perdidos.dll
